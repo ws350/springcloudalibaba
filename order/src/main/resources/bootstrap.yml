@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    nacos:
+      server-addr: 101.35.246.213:8848
+      username: nacos
+      password: nacos
+      namespace: dev
